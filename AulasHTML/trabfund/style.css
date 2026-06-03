@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap);
+
+.meiaseven {
+    font-family: 'Elms Sans';
+}
+
+h1 {
+    font-size: 400%;
+}
+
+p {
+    letter-spacing: 1px;
+    font-size: larger;
+    width: 50vw;
+}
+
+a {
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+footer {
+    bottom: 0%;
+    position: absolute;
+}
